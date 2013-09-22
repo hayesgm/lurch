@@ -1,6 +1,6 @@
 # Lurch
 
-TODO: Write a gem description
+Gem to connect to Lurch error management system
 
 ## Installation
 
